@@ -39,4 +39,4 @@ jobs:
 # pytest looks for the test_*.py files and runs them
     - name: Test with pytest
       run: |
-        pytest
+        PYTHONPATH=src pytest
