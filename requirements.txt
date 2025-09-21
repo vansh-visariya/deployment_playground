@@ -6,6 +6,5 @@ seaborn
 mlflow
 torch
 hyperopt
-apache-airflow
 dvc
 pytest
