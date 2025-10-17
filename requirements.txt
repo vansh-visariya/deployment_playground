@@ -8,3 +8,5 @@ torch
 hyperopt
 dvc
 pytest
+fastapi
+uvicorn

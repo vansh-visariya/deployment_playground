@@ -31,3 +31,6 @@ for airflow, use astronomer.io(astro)
     2. astro dev init
 
     3. astro dev start # start the astro/airflow in the docker
+
+## Fastapi
+run using "uvicorn app:app --reload"
