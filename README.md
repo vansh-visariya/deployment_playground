@@ -34,3 +34,7 @@ for airflow, use astronomer.io(astro)
 
 ## Fastapi
 run using "uvicorn app:app --reload"
+
+## pydantic
+https://github.com/campusx-official/pydantic-crash-course
+pydantic is very useful in type hunting in python and needed in production grade code

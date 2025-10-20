@@ -10,3 +10,4 @@ dvc
 pytest
 fastapi
 uvicorn
+pydantic
