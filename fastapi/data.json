@@ -1,1 +1,32 @@
-{"patient1": {"ID": 1, "name": "vansh", "age": 20, "gender": "male"}, "patient2": {"ID": 2, "name": "vatsal", "age": 21, "gender": "male"}, "patient3": {"ID": 3, "name": "yash", "age": 32, "gender": "female"}, "patient4": {"ID": 4, "name": "rishee", "age": 33, "gender": "male"}, "patient5": {"ID": 5, "name": "raj", "age": 24, "gender": "female"}, "patient6": {"ID": 6, "name": "nani", "age": 65, "gender": "female"}}
+{
+    "patient1": {
+        "ID": 1,
+        "name": "vansh",
+        "age": 20,
+        "gender": "male"
+    },
+    "patient2": {
+        "ID": 2,
+        "name": "vatsal",
+        "age": 21,
+        "gender": "male"
+    },
+    "patient3": {
+        "ID": 3,
+        "name": "yash",
+        "age": 32,
+        "gender": "female"
+    },
+    "patient4": {
+        "ID": 4,
+        "name": "rishee",
+        "age": 33,
+        "gender": "male"
+    },
+    "patient5": {
+        "ID": 5,
+        "name": "raj",
+        "age": 24,
+        "gender": "female"
+    }
+}
